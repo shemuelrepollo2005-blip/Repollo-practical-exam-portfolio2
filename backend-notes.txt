@@ -1,0 +1,7 @@
+1. What is backend development?
+backend development is the way to develop backend
+2. Give 2 examples of backend frameworks.
+Django
+Flask
+3. What is an API?
+Application Programming Interface (Middleware)
